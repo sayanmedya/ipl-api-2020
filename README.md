@@ -7,9 +7,7 @@
 
 # https://iplt20api.herokuapp.com/(livescore|schedule|pointtable|nextmatch)
   
-# Technology Used
- * Flask
- * BeautifulSoup
- * Request
- * Fake User Agent
- 
+# Discord IPL Bot
+
+* Get live score match schedule etc using bot commands.
+* Automatic live commentary from the bot
